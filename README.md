@@ -12,12 +12,12 @@ https://github.com/dajudagnomo/ArbolBinario_DavidDuarte/archive/master.zip
 2. Descomprima el archivo zip.
 
 3. Inicie el servicio de MongoDB 
-En Windows: 
-En la ruta C:\Program Files\MongoDB\Server\4.2\bin ejecute el archivo mongod.exe
+* En Windows: 
+* En la ruta C:\Program Files\MongoDB\Server\4.2\bin ejecute el archivo mongod.exe
 
 3. Ejecute NodeJs desde consola y dentro de la carpeta del proyecto:
- npm install --save
- npm start
+* npm install --save
+* npm start
  
  4. Abra un cliente navegador web y digite la ruta:
   localhost:3000
